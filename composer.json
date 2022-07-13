@@ -1,0 +1,16 @@
+{
+    "name": "iren/composer-lesson",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "iren\\composer_lesson\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "aMadAlien",
+            "email": "irasibil2@gmail.com"
+        }
+    ],
+    "require": {}
+}
