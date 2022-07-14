@@ -12,5 +12,7 @@
             "email": "irasibil2@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "psr/log": "^3.0"
+    }
 }
